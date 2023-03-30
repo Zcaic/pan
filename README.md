@@ -1,4 +1,4 @@
-# pan
+# pan (fix bug)
 a panair interface based on [pyPanair](https://github.com/SaTa999/pyPanair)
 
 # requirement:
